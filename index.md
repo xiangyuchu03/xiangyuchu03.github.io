@@ -11,10 +11,18 @@ My research interests include learning from teleoperation, legged manipulation, 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sept. 2023]** One paper about hybrid inertial appendage is accepted to RA-L.
+- **[Sept. 2023]** One paper about skill learning from intuitive teleoperation is accepted to ISER 2023.
+- **[Jul. 2023]** One paper is accepted to T-RO.
+- **[Jun. 2023]** One paper is accepted to IROS 2023.
+- **[May. 2023]** One paper about large-scale cloth manipulation is accepted to CASE 2023.
+- **[Jan. 2023]** Two papers are accepted to ICRA 2023.
+- **[Dec. 2022]** One workshop proposal about agile movement is accepted to ICRA 2023.
+- **[Jun. 2022]** One paper about nonholonomic vehicle navigation is accepted to T-MECH.
+- **[May. 2022]** One paper is accepted to T-MECH.
+- **[Apr. 2022]** One paper about null space avoidance theory is accepted to T-CST.
+- **[Feb. 2022]** One paper is accepted to ACC 2022.
+- **[Jul. 2021]** I defended my Ph.D. dissertation with the committee members: Prof. Yunhui Liu, Prof. Kwok Wai Samuel Au, Prof. Tat Ming Lau, and Prof. Marco Hutter.
 
 {% include_relative _includes/publications.md %}
 
