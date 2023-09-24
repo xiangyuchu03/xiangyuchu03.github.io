@@ -12,7 +12,7 @@ My research interests include learning from teleoperation, legged manipulation, 
 ## News
 
 - **[Sept. 2023]** One paper about hybrid inertial appendage is accepted to RA-L.
-- **[Sept. 2023]** One paper about skill learning from intuitive teleoperation is accepted to ISER 2023.
+- **[Sept. 2023]** One paper about learning from intuitive teleoperation is accepted to ISER 2023.
 - **[Jul. 2023]** One paper is accepted to T-RO.
 - **[Jun. 2023]** One paper is accepted to IROS 2023.
 - **[May. 2023]** One paper about large-scale cloth manipulation is accepted to CASE 2023.
