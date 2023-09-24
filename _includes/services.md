@@ -24,5 +24,8 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href=""><autocolor>IEEE Robotics and Automation Letters (RA-L) *11</autocolor></a></li>
-  <li><a href=""><autocolor>IEEE Transactions on Control Systems Technology（T-CST）*1</autocolor></a></li>
+  <li><a href=""><autocolor>IEEE Transactions on Control Systems Technology（T-CST) *1</autocolor></a></li>
+  <li><a href=""><autocolor>Journal of Mechanisms and Robotics (J-MR) *1</autocolor></a></li>
+  <li><a href=""><autocolor>Frontiers in Robotics and AI *1</autocolor></a></li>
+  <li><a href=""><autocolor>IEEE Transactions on Robotics（T-RO) *1</autocolor></a></li>
 </ul>
