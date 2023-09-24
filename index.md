@@ -4,14 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am currently an honorary postdoctoral fellow in the [BTM](https://biomedirobotics.com/) group, Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, and also a postdoctoral fellow in [Multi-scale Medical Robotics Center](https://www.mrc-cuhk.com/), both directed by [Prof. Kwok Wai Samuel Au](https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/). Prior to my PhD study, I received B.E. and M.E. degrees at Harbin Institute of Technology, China. In the third year, I was visiting the group of [Prof. Hartmut Geyer](https://www.cs.cmu.edu/~hgeyer/) at Carnegie Mellon University.
+I am currently an honorary postdoctoral fellow in the [BTM](https://biomedirobotics.com/) group, Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, and also a postdoctoral fellow in [Multi-scale Medical Robotics Center](https://www.mrc-cuhk.com/), both directed by [Prof. Kwok Wai Samuel Au](https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/). Prior to my PhD study, I received B.E. and M.E. degrees at Harbin Institute of Technology, China. In the third year, I was visiting the group of [Prof. Hartmut Geyer](https://www.cs.cmu.edu/~hgeyer/) at Carnegie Mellon University. Currently, I am visiting the Chair for Computer Aided Medical Procedures & Augmented Reality [CAMP](https://www.cs.cit.tum.de/camp/start/) at Technical University of Munich.
 
-My research interests include (teleoperated) locomotion and/or manipulation, underactuated control, bio-inspired robots, and medical robots. Keeping the interest in bio-inspired robots and their related underactuated control problems, I am also working on the topics of (teleoperated) locomotion and/or manipulation towards efficient and safe manipulation capabilities in healthcare and homecare, by combining the strengths of bio-inspired robots and medical robots.
+My research interests include learning from teleoperation, legged manipulation, medical robots, bio-inspired robots, and underactuated control. Keeping an interest in bio-inspired robots and their related underactuated control problems, I am  working on the topics of (teleoperated) locomotion and manipulation towards efficient and safe (mobile) manipulation capabilities in healthcare and homecare, by combining the strengths of bio-inspired robots and medical robots.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
