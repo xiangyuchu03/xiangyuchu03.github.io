@@ -1,8 +1,8 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Xiangyu Chu
+position: Postdoctoral Fellow
+affiliation: Multi-Scale Medical Research Center, The Chinese University of Hong Kong
+email: xiangyuchu (at) cuhk.edu.hk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,10 +12,10 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=1v8bLDUAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/
-linkedin: https://www.linkedin.com/
+linkedin: https://www.linkedin.com/in/xiangyu-chu-33b0711a2/
 twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
