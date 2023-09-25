@@ -11,7 +11,7 @@ main:
     notes: Accept
 
   - title: Bootstrapping Robotic Skill Learning With Intuitive Teleoperation: Initial Feasibility Study
-    authors: <strong>Xiangyu Chu#</strong>, Yunxi Tang#, Lam Him Kwok, Yuanpei Cai, K. W. Samuel Au (#: equal contribution)
+    authors: <strong>Xiangyu Chu</strong>#, Yunxi Tang#, Lam Him Kwok, Yuanpei Cai, K. W. Samuel Au (#: equal contribution)
     conference_short: ISER
     conference: International Symposium on Experimental Robotics <strong>(ISER)</strong>, 2023.
     pdf: 
