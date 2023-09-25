@@ -20,4 +20,14 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+  - title: Combining Tail and Reaction Wheel for Underactuated Spatial Reorientation in Robot Falling With Quadratic Programming
+    authors: Xiangyu Chu<, Shengzhi Wang, Raymond NG, Chun Yin Fan, Jiajun An, Samuel K. W. Au
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2023.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/RAL2023_flying_car.png
+    notes: Accept
     
