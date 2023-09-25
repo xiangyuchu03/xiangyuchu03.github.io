@@ -1,7 +1,7 @@
 main:
 
   - title: Combining Tail and Reaction Wheel for Underactuated Spatial Reorientation in Robot Falling With Quadratic Programming
-    authors: <strong>Xiangyu Chu</strong>, Shengzhi Wang, Raymond NG, Chun Yin Fan, Jiajun An, Samuel K. W. Au
+    authors: Xiangyu Chu<, Shengzhi Wang, Raymond NG, Chun Yin Fan, Jiajun An, Samuel K. W. Au
     conference_short: RA-L
     conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2023.
     pdf: 
@@ -11,7 +11,7 @@ main:
     notes: Accept
 
   - title: Bootstrapping Robotic Skill Learning With Intuitive Teleoperation: Initial Feasibility Study
-    authors: <strong>Xiangyu Chu</strong>, Yunxi Tang, Lam Him Kwok, Yuanpei Cai, K. W. Samuel Au (equal contribution)
+    authors: Xiangyu Chu, Yunxi Tang, Lam Him Kwok, Yuanpei Cai, K. W. Samuel Au (equal contribution)
     conference_short: ISER
     conference: International Symposium on Experimental Robotics <strong>(ISER)</strong>, 2023.
     pdf: 
