@@ -6,6 +6,12 @@
   <li><a href="http://www.ieee-rcar.org/"><autocolor></autocolor>The 2023 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2023)</a></li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Workshop Organization</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://sites.google.com/view/agilemovement-2023icra"><autocolor></autocolor>Agile Movements: Animal Behavior, Biomechanics, and Robot Devices at (ICRA 2023)</a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
