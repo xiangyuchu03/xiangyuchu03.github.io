@@ -1,7 +1,7 @@
 main:
 
   - title: Combining Tail and Reaction Wheel for Underactuated Spatial Reorientation in Robot Falling With Quadratic Programming
-    authors: Xiangyu Chu, Shengzhi Wang, Raymond NG, Chun Yin Fan, Jiajun An, Samuel K. W. Au
+    authors: <strong>Xiangyu Chu</strong>, Shengzhi Wang, Raymond NG, Chun Yin Fan, Jiajun An, Samuel K. W. Au
     conference_short: RA-L
     conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2023.
     pdf: 
@@ -10,13 +10,13 @@ main:
     image: ./assets/img/RAL2023_flying_car.png
     notes: Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: Bootstrapping Robotic Skill Learning With Intuitive Teleoperation: Initial Feasibility Study
+    authors: <strong>Xiangyu Chu#</strong>, Yunxi Tang#, Lam Him Kwok, Yuanpei Cai, K. W. Samuel Au (#: equal contribution)
+    conference_short: ISER
+    conference: International Symposium on Experimental Robotics <strong>(ISER)</strong>, 2023.
+    pdf: 
+    code: 
+    page: 
+    bibtex: 
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
