@@ -7,7 +7,7 @@ main:
     pdf: 
     code: 
     bibtex: 
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/RAL2023_flying_car.png
     notes: Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
