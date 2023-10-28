@@ -28,7 +28,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href=""><autocolor>IEEE Robotics and Automation Letters (RA-L) *12</autocolor></a></li>
+  <li><a href=""><autocolor>IEEE Robotics and Automation Letters (RA-L) *14</autocolor></a></li>
   <li><a href=""><autocolor>IEEE Transactions on Control Systems Technology（T-CST) *1</autocolor></a></li>
   <li><a href=""><autocolor>Journal of Mechanisms and Robotics (J-MR) *1</autocolor></a></li>
   <li><a href=""><autocolor>Frontiers in Robotics and AI *1</autocolor></a></li>
