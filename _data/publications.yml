@@ -41,3 +41,14 @@ main:
     image: ./assets/img/CASE_mobile_manipulation.png
     # notes: Accept
 
+  - title: "Opposite Treatment on Null Space: A Unified Control Framework for a Class of Underactuated Robotic Systems With Null Space Avoidance"
+    authors: <strong>Xiangyu Chu</strong>, Chun Ho Lo, Tommaso Proietti, Conor J Walsh, Kwok Wai Samuel Au
+    conference_short: TCST
+    conference: IEEE Transactions on Control Systems Technology <strong>(TCST)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9777848
+    code: 
+    page: 
+    bibtex: 
+    image: ./assets/img/TCST_NSA.png
+    # notes: Accept
+
