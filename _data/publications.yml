@@ -52,3 +52,34 @@ main:
     image: ./assets/img/TCST_NSA.png
     # notes: Accept
 
+  - title: "Feedback Control for Collision-Free Nonholonomic Vehicle Navigation on SE (2) With Null Space Circumvention"
+    authors: <strong>Xiangyu Chu</strong>, Raymond Ng, Hesheng Wang, Kwok Wai Samuel Au
+    conference_short: TMECH
+    conference: IEEE/ASME Transactions on Mechatronics <strong>(TMECH)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9823310
+    code: 
+    page: 
+    bibtex: 
+    image: ./assets/img/TMech_navigation.png
+    # notes: Accept
+
+  - title: "Null-Space-Avoidance-Based Orientation Control Framework for Underactuated, Tail-Inspired Robotic Systems in Flight Phase"
+    authors: <strong>Xiangyu Chu</strong>, Chun Ho David Lo, Carlos Ma, Kwok Wai Samuel Au
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2019.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9777848
+    page: 
+    bibtex: 
+    image: ./assets/img/RAL_NSA.png
+    # notes: Accept
+
+  - title: "A Compliant Robotic Instrument With Coupled Tendon Driven Articulated Wrist Control for Organ Retraction"
+    authors: <strong>Xiangyu Chu</strong>, Hoi Wut Yip, Yuanpei Cai, Tsz Yin Chung, Stuart Moran, KW Samuel Au
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2018.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8425721
+    page: 
+    bibtex: 
+    image: ./assets/img/RAL_organ.png
+    # notes: Accept
+
