@@ -8,16 +8,16 @@ main:
     code: 
     bibtex: 
     image: ./assets/img/RAL2023_flying_car.png
-    notes: Accept
+    # notes: Accept
 
   - title: "Bootstrapping Robotic Skill Learning With Intuitive Teleoperation: Initial Feasibility Study"
     authors: <strong>Xiangyu Chu<sup>#</sup></strong>, Yunxi Tang<sup>#</sup>, Lam Him Kwok, Yuanpei Cai, K. W. Samuel Au (<sup>#</sup>equal contribution)
     conference_short: ISER
     conference: International Symposium on Experimental Robotics <strong>(ISER)</strong>, 2023.
-    pdf: 
+    pdf: https://arxiv.org/pdf/2311.06543.pdf
     code: 
     page: 
     bibtex: 
     image: ./assets/img/ISER2023.png
-    notes: Accept
+    # notes: Accept
     
