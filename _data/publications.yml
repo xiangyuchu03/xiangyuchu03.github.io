@@ -29,4 +29,59 @@ main:
     bibtex: 
     image: ./assets/img/ISER2023.png
     # notes: Accept
+
+  - title: "Model-Free Large-Scale Cloth Spreading With Mobile Manipulation: Initial Feasibility Study"
+    authors: <strong>Xiangyu Chu<sup>#</sup></strong>, Shengzhi Wang<sup>#</sup>, Minjian Feng, Jiaxi Zheng, Yuxuan Zhao, Jing Huang, K. W. Samuel Au (<sup>#</sup>equal contribution)
+    conference_short: CASE
+    conference: 2023 IEEE International Conference on Automation Science and Engineering <strong>(CASE)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10260538
+    code: 
+    page: 
+    bibtex: 
+    image: ./assets/img/ISER2023.png
+    # notes: Accept
+
+- title: "Opposite Treatment on Null Space: A Unified Control Framework for a Class of Underactuated Robotic Systems With Null Space Avoidance"
+    authors: <strong>Xiangyu Chu</strong>, Chun Ho Lo, Tommaso Proietti, Conor J Walsh, Kwok Wai Samuel Au
+    conference_short: TCST
+    conference: IEEE Transactions on Control Systems Technology <strong>(TCST)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9777848
+    code: 
+    page: 
+    bibtex: 
+    image: ./assets/img/ISER2023.png
+    # notes: Accept
+    
+  - title: "Feedback Control for Collision-Free Nonholonomic Vehicle Navigation on SE (2) With Null Space Circumvention"
+    authors: <strong>Xiangyu Chu</strong>, Raymond Ng, Hesheng Wang, Kwok Wai Samuel Au
+    conference_short: TMECH
+    conference: IEEE/ASME Transactions on Mechatronics <strong>(TMECH)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9823310
+    code: 
+    page: 
+    bibtex: 
+    image: ./assets/img/ISER2023.png
+    # notes: Accept
+
+  - title: "Null-Space-Avoidance-Based Orientation Control Framework for Underactuated, Tail-Inspired Robotic Systems in Flight Phase"
+    authors: <strong>Xiangyu Chu</strong>, Chun Ho David Lo, Carlos Ma, Kwok Wai Samuel Au
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2019.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9777848
+    page: 
+    bibtex: 
+    image: ./assets/img/ISER2023.png
+    # notes: Accept
+
+  - title: "A Compliant Robotic Instrument With Coupled Tendon Driven Articulated Wrist Control for Organ Retraction"
+    authors: <strong>Xiangyu Chu</strong>, Hoi Wut Yip, Yuanpei Cai, Tsz Yin Chung, Stuart Moran, KW Samuel Au
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2018.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8425721
+    page: 
+    bibtex: 
+    image: ./assets/img/ISER2023.png
+    # notes: Accept
+
+
     
