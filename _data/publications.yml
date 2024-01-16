@@ -1,5 +1,14 @@
 main:
 
+  - title: Interactive Navigation in Environments with Traversable Obstacles Using Large Language and Vision-Language Models
+    authors: Zhen Zhang, Anran Lin, Chun Wai Wong, <strong>Xiangyu Chu</strong>, Qi Dou, K. W. Samuel Au
+    conference: arxiv, 2023.
+    pdf: https://arxiv.org/pdf/2310.08873.pdf
+    code: 
+    bibtex: 
+    image: ./assets/img/RAL2023_flying_car.png
+    # notes: Accept
+  
   - title: Combining Tail and Reaction Wheel for Underactuated Spatial Reorientation in Robot Falling With Quadratic Programming
     authors: <strong>Xiangyu Chu</strong>, Shengzhi Wang, Raymond NG, Chun Yin Fan, Jiajun An, K. W. Samuel Au
     conference_short: RA-L
