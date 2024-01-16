@@ -6,7 +6,7 @@ main:
     pdf: https://arxiv.org/pdf/2310.08873.pdf
     code: 
     bibtex: 
-    image: ./assets/img/RAL2023_flying_car.png
+    image: ./assets/img/interactive_navigation.png
     # notes: Accept
   
   - title: Combining Tail and Reaction Wheel for Underactuated Spatial Reorientation in Robot Falling With Quadratic Programming
