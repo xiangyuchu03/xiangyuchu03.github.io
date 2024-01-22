@@ -11,6 +11,7 @@ My research interests include 1) Developments of robotic surgical and medical sy
 
 ## News
 
+- **[Jan. 2024]** One paper about learning-based MPC for DOM is accepted to RA-L.
 - **[Dec. 2023]** One workshop proposal about agile movement (II) is accepted to ICRA 2024.
 - **[Sept. 2023]** One paper is accepted to Humanoids 2023.
 - **[Sept. 2023]** One paper about hybrid inertial appendage is accepted to RA-L.
