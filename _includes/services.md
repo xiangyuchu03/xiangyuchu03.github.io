@@ -36,4 +36,5 @@
   <li><a href=""><autocolor>Journal of Mechanisms and Robotics (J-MR) *1</autocolor></a></li>
   <li><a href=""><autocolor>Frontiers in Robotics and AI *1</autocolor></a></li>
   <li><a href=""><autocolor>IEEE Transactions on Robotics（T-RO) *1</autocolor></a></li>
+  <li><a href=""><autocolor>IEEE Transactions on Mechatronics（T-Mech) *1</autocolor></a></li>
 </ul>
