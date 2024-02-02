@@ -1,8 +1,19 @@
 main:
-
+  
+  - title: Learning-based MPC With Safety Filter for Constrained Deformable Linear Object Manipulation
+    authors: Yunxi Tang, <strong>Xiangyu Chu<sup>*</sup></strong>, Jing Huang, K. W. Samuel Au
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10272254
+    code: 
+    bibtex: 
+    image: ./assets/img/RAL2023_flying_car.png
+    # notes: Accept
+ 
   - title: Interactive Navigation in Environments with Traversable Obstacles Using Large Language and Vision-Language Models
-    authors: Zhen Zhang, Anran Lin, Chun Wai Wong, <strong>Xiangyu Chu</strong>, Qi Dou, K. W. Samuel Au
-    conference: arxiv, 2023.
+    authors: Zhen Zhang, Anran Lin, Chun Wai Wong, <strong>Xiangyu Chu<sup>*</sup></strong>, Qi Dou<sup>*</sup>, K. W. Samuel Au
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation.
     pdf: https://arxiv.org/pdf/2310.08873.pdf
     code: 
     bibtex: 
