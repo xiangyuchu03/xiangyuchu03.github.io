@@ -1,7 +1,7 @@
 main:
   
   - title: Learning-based MPC With Safety Filter for Constrained Deformable Linear Object Manipulation
-    authors: Yunxi Tang, <strong>Xiangyu Chu<sup>*</sup></strong>, Jing Huang, K. W. Samuel Au
+    authors: Yunxi Tang, <strong>Xiangyu Chu<sup>*</sup></strong>, Jing Huang, and K. W. Samuel Au
     conference_short: RA-L
     conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2024.
     #pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10272254
@@ -11,7 +11,7 @@ main:
     notes: Accept
  
   - title: Interactive Navigation in Environments with Traversable Obstacles Using Large Language and Vision-Language Models
-    authors: Zhen Zhang, Anran Lin, Chun Wai Wong, <strong>Xiangyu Chu<sup>*</sup></strong>, Qi Dou<sup>*</sup>, K. W. Samuel Au
+    authors: Zhen Zhang, Anran Lin, Chun Wai Wong, <strong>Xiangyu Chu<sup>*</sup></strong>, Qi Dou<sup>*</sup>, and K. W. Samuel Au
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation.
     pdf: https://arxiv.org/pdf/2310.08873.pdf
@@ -21,7 +21,7 @@ main:
     # notes: Accept
   
   - title: Combining Tail and Reaction Wheel for Underactuated Spatial Reorientation in Robot Falling With Quadratic Programming
-    authors: <strong>Xiangyu Chu</strong>, Shengzhi Wang, Raymond NG, Chun Yin Fan, Jiajun An, K. W. Samuel Au
+    authors: <strong>Xiangyu Chu</strong>, Shengzhi Wang, Raymond NG, Chun Yin Fan, Jiajun An, and K. W. Samuel Au
     conference_short: RA-L
     conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10272254
@@ -31,7 +31,7 @@ main:
     # notes: Accept
 
   - title: "Bootstrapping Robotic Skill Learning With Intuitive Teleoperation: Initial Feasibility Study"
-    authors: <strong>Xiangyu Chu<sup>#</sup></strong>, Yunxi Tang<sup>#</sup>, Lam Him Kwok, Yuanpei Cai, K. W. Samuel Au (<sup>#</sup>equal contribution)
+    authors: <strong>Xiangyu Chu<sup>#</sup></strong>, Yunxi Tang<sup>#</sup>, Lam Him Kwok, Yuanpei Cai, and K. W. Samuel Au (<sup>#</sup>equal contribution)
     conference_short: ISER
     conference: International Symposium on Experimental Robotics <strong>(ISER)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2311.06543.pdf
@@ -42,7 +42,7 @@ main:
     # notes: Accept
 
   - title: "Model-Free Large-Scale Cloth Spreading With Mobile Manipulation: Initial Feasibility Study"
-    authors: <strong>Xiangyu Chu<sup>#</sup></strong>, Shengzhi Wang<sup>#</sup>, Minjian Feng, Jiaxi Zheng, Yuxuan Zhao, Jing Huang, K. W. Samuel Au (<sup>#</sup>equal contribution)
+    authors: <strong>Xiangyu Chu<sup>#</sup></strong>, Shengzhi Wang<sup>#</sup>, Minjian Feng, Jiaxi Zheng, Yuxuan Zhao, Jing Huang, and K. W. Samuel Au (<sup>#</sup>equal contribution)
     conference_short: CASE
     conference: 2023 IEEE International Conference on Automation Science and Engineering <strong>(CASE)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10260538
@@ -53,7 +53,7 @@ main:
     # notes: Accept
 
   - title: "Opposite Treatment on Null Space: A Unified Control Framework for a Class of Underactuated Robotic Systems With Null Space Avoidance"
-    authors: <strong>Xiangyu Chu</strong>, Chun Ho Lo, Tommaso Proietti, Conor J Walsh, Kwok Wai Samuel Au
+    authors: <strong>Xiangyu Chu</strong>, Chun Ho Lo, Tommaso Proietti, Conor J Walsh, and Kwok Wai Samuel Au
     conference_short: TCST
     conference: IEEE Transactions on Control Systems Technology <strong>(TCST)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9777848
@@ -64,7 +64,7 @@ main:
     # notes: Accept
 
   - title: "Feedback Control for Collision-Free Nonholonomic Vehicle Navigation on SE (2) With Null Space Circumvention"
-    authors: <strong>Xiangyu Chu</strong>, Raymond Ng, Hesheng Wang, Kwok Wai Samuel Au
+    authors: <strong>Xiangyu Chu</strong>, Raymond Ng, Hesheng Wang, and Kwok Wai Samuel Au
     conference_short: TMECH
     conference: IEEE/ASME Transactions on Mechatronics <strong>(TMECH)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9823310
@@ -75,7 +75,7 @@ main:
     # notes: Accept
 
   - title: "Null-Space-Avoidance-Based Orientation Control Framework for Underactuated, Tail-Inspired Robotic Systems in Flight Phase"
-    authors: <strong>Xiangyu Chu</strong>, Chun Ho David Lo, Carlos Ma, Kwok Wai Samuel Au
+    authors: <strong>Xiangyu Chu</strong>, Chun Ho David Lo, Carlos Ma, and Kwok Wai Samuel Au
     conference_short: RA-L
     conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2019.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9777848
@@ -85,7 +85,7 @@ main:
     # notes: Accept
 
   - title: "A Compliant Robotic Instrument With Coupled Tendon Driven Articulated Wrist Control for Organ Retraction"
-    authors: <strong>Xiangyu Chu</strong>, Hoi Wut Yip, Yuanpei Cai, Tsz Yin Chung, Stuart Moran, KW Samuel Au
+    authors: <strong>Xiangyu Chu</strong>, Hoi Wut Yip, Yuanpei Cai, Tsz Yin Chung, Stuart Moran, and K. W. Samuel Au
     conference_short: RA-L
     conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2018.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8425721
