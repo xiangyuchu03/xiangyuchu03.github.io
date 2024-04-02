@@ -4,16 +4,16 @@ main:
     authors: Yunxi Tang, <strong>Xiangyu Chu<sup>*</sup></strong>, Jing Huang, and K. W. Samuel Au
     conference_short: RA-L
     conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2024.
-    #pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10272254
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10423099
     code: 
     bibtex: 
     image: ./assets/img/RAL_DOM_Tang.png
-    notes: Accept
+    #notes: Accept
  
   - title: Interactive Navigation in Environments with Traversable Obstacles Using Large Language and Vision-Language Models
     authors: Zhen Zhang, Anran Lin, Chun Wai Wong, <strong>Xiangyu Chu<sup>*</sup></strong>, Qi Dou<sup>*</sup>, and K. W. Samuel Au
     conference_short: ICRA
-    conference: IEEE International Conference on Robotics and Automation.
+    conference: IEEE International Conference on Robotics and Automation, 2024.
     pdf: https://arxiv.org/pdf/2310.08873.pdf
     code: 
     bibtex: 
