@@ -10,8 +10,9 @@ My research interests include 1) Developments of robotic surgical and medical sy
 
 
 ## News
-- **[May. 2024]** One paper about autonomous robotic surgery is accepted to RSS 2024.
-- **[May. 2024]** I was recognized for distinguished service as an Outstanding Reviewer for the IEEE Robotics and Automation Letters.
+- **[Jun. 2024]** One paper about explaining kangaroo rat's tail motion is accepted to Integrative and Comparative Biology. This is our first paper in **Robotics for Biology**!
+- **[May 2024]** One paper about autonomous robotic surgery is accepted to RSS 2024.
+- **[May 2024]** I was recognized for distinguished service as an Outstanding Reviewer for the IEEE Robotics and Automation Letters.
 - **[Jan. 2024]** One paper about interactive navigation using large models is accepted to ICRA 2024.
 - **[Jan. 2024]** One paper is accepted to ACC 2024.
 - **[Jan. 2024]** One paper about learning-based MPC for DOM is accepted to RA-L.
@@ -21,11 +22,11 @@ My research interests include 1) Developments of robotic surgical and medical sy
 - **[Sept. 2023]** One paper about learning from intuitive teleoperation is accepted to ISER 2023.
 - **[Jul. 2023]** One paper is accepted to T-RO.
 - **[Jun. 2023]** One paper is accepted to IROS 2023.
-- **[May. 2023]** One paper about large-scale cloth manipulation is accepted to CASE 2023.
+- **[May 2023]** One paper about large-scale cloth manipulation is accepted to CASE 2023.
 - **[Jan. 2023]** Two papers are accepted to ICRA 2023.
 - **[Dec. 2022]** One workshop proposal about agile movement is accepted to ICRA 2023.
 - **[Jun. 2022]** One paper about nonholonomic vehicle navigation is accepted to T-MECH.
-- **[May. 2022]** One paper is accepted to T-MECH.
+- **[May 2022]** One paper is accepted to T-MECH.
 - **[Apr. 2022]** One paper about null space avoidance theory is accepted to T-CST.
 - **[Feb. 2022]** One paper is accepted to ACC 2022.
 - **[Jul. 2021]** I defended my Ph.D. dissertation with the committee members: Prof. Yunhui Liu, Prof. Kwok Wai Samuel Au, Prof. Tat Ming Lau, and Prof. Marco Hutter.
