@@ -86,6 +86,12 @@ My research interests include 1) Developments of robotic surgical and medical sy
     });
 </script>
 
+<style>
+    .news-item { display: none; }
+    .news-item.show { display: list-item; }
+    .show-more-btn { cursor: pointer; color: blue; text-decoration: underline; }
+</style>
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
