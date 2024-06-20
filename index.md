@@ -56,6 +56,36 @@ My research interests include 1) Developments of robotic surgical and medical sy
     <li class="news-item">**[Jul. 2021]** I defended my Ph.D. dissertation with the committee members: Prof. Yunhui Liu, Prof. Kwok Wai Samuel Au, Prof. Tat Ming Lau, and Prof. Marco Hutter.</li>
 </ul>
 
+<div class="show-more-btn" onclick="toggleNews()">Show More</div>
+
+<script>
+    function toggleNews() {
+        const newsItems = document.querySelectorAll('.news-item');
+        const showMoreBtn = document.querySelector('.show-more-btn');
+        let showing = false;
+
+        newsItems.forEach((item, index) => {
+            if (index >= 10) {
+                if (item.classList.contains('show')) {
+                    showing = true;
+                }
+                item.classList.toggle('show');
+            }
+        });
+
+        showMoreBtn.textContent = showing ? 'Show More' : 'Show Less';
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const newsItems = document.querySelectorAll('.news-item');
+        newsItems.forEach((item, index) => {
+            if (index < 10) {
+                item.classList.add('show');
+            }
+        });
+    });
+</script>
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
