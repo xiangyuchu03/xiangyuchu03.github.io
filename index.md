@@ -10,6 +10,7 @@ My research interests include 1) Developments of robotic surgical and medical sy
 
 
 ## News
+- **[Jun. 2024]** One paper about restoring a needle's visibility is accepted to IEEE Transactions on Instrumentation & Measurement.
 - **[Jun. 2024]** One paper about explaining kangaroo rat's tail motion is accepted to Integrative and Comparative Biology. This is our first paper in **Robotics for Biology**!
 - **[May 2024]** One paper about autonomous robotic surgery is accepted to RSS 2024.
 - **[May 2024]** I was recognized for distinguished service as an Outstanding Reviewer for the IEEE Robotics and Automation Letters.
