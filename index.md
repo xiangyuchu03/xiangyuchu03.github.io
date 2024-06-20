@@ -34,26 +34,26 @@ My research interests include 1) Developments of robotic surgical and medical sy
 
   ## News
 <ul id="news-list">
-    <li class="news-item">**[Jun. 2024]** One paper about explaining kangaroo rat's tail motion is accepted to Integrative and Comparative Biology. This is our first paper in **Robotics for Biology**!</li>
-    <li class="news-item">**[May 2024]** One paper about autonomous robotic surgery is accepted to RSS 2024.</li>
-    <li class="news-item">**[May 2024]** I was recognized for distinguished service as an Outstanding Reviewer for the IEEE Robotics and Automation Letters.</li>
-    <li class="news-item">**[Jan. 2024]** One paper about interactive navigation using large models is accepted to ICRA 2024.</li>
-    <li class="news-item">**[Jan. 2024]** One paper is accepted to ACC 2024.</li>
-    <li class="news-item">**[Jan. 2024]** One paper about learning-based MPC for DOM is accepted to RA-L.</li>
-    <li class="news-item">**[Dec. 2023]** One workshop proposal about agile movement (II) is accepted to ICRA 2024.</li>
-    <li class="news-item">**[Sept. 2023]** One paper is accepted to Humanoids 2023.</li>
-    <li class="news-item">**[Sept. 2023]** One paper about hybrid inertial appendage is accepted to RA-L.</li>
-    <li class="news-item">**[Sept. 2023]** One paper about learning from intuitive teleoperation is accepted to ISER 2023.</li>
-    <li class="news-item">**[Jul. 2023]** One paper is accepted to T-RO.</li>
-    <li class="news-item">**[Jun. 2023]** One paper is accepted to IROS 2023.</li>
-    <li class="news-item">**[May 2023]** One paper about large-scale cloth manipulation is accepted to CASE 2023.</li>
-    <li class="news-item">**[Jan. 2023]** Two papers are accepted to ICRA 2023.</li>
-    <li class="news-item">**[Dec. 2022]** One workshop proposal about agile movement is accepted to ICRA 2023.</li>
-    <li class="news-item">**[Jun. 2022]** One paper about nonholonomic vehicle navigation is accepted to T-MECH.</li>
-    <li class="news-item">**[May. 2022]** One paper is accepted to T-MECH.</li>
-    <li class="news-item">**[Apr. 2022]** One paper about null space avoidance theory is accepted to T-CST.</li>
-    <li class="news-item">**[Feb. 2022]** One paper is accepted to ACC 2022.</li>
-    <li class="news-item">**[Jul. 2021]** I defended my Ph.D. dissertation with the committee members: Prof. Yunhui Liu, Prof. Kwok Wai Samuel Au, Prof. Tat Ming Lau, and Prof. Marco Hutter.</li>
+    <li class="news-item"><strong>[Jun. 2024]</strong> One paper about explaining kangaroo rat's tail motion is accepted to Integrative and Comparative Biology. This is our first paper in <strong>Robotics for Biology</strong>!</li>
+    <li class="news-item"><strong>[May 2024]</strong> One paper about autonomous robotic surgery is accepted to RSS 2024.</li>
+    <li class="news-item"><strong>[May 2024]</strong> I was recognized for distinguished service as an Outstanding Reviewer for the IEEE Robotics and Automation Letters.</li>
+    <li class="news-item"><strong>[Jan. 2024]</strong> One paper about interactive navigation using large models is accepted to ICRA 2024.</li>
+    <li class="news-item"><strong>[Jan. 2024]</strong> One paper is accepted to ACC 2024.</li>
+    <li class="news-item"><strong>[Jan. 2024]</strong> One paper about learning-based MPC for DOM is accepted to RA-L.</li>
+    <li class="news-item"><strong>[Dec. 2023]</strong> One workshop proposal about agile movement (II) is accepted to ICRA 2024.</li>
+    <li class="news-item"><strong>[Sept. 2023]</strong> One paper is accepted to Humanoids 2023.</li>
+    <li class="news-item"><strong>[Sept. 2023]</strong> One paper about hybrid inertial appendage is accepted to RA-L.</li>
+    <li class="news-item"><strong>[Sept. 2023]</strong> One paper about learning from intuitive teleoperation is accepted to ISER 2023.</li>
+    <li class="news-item"><strong>[Jul. 2023]</strong> One paper is accepted to T-RO.</li>
+    <li class="news-item"><strong>[Jun. 2023]</strong> One paper is accepted to IROS 2023.</li>
+    <li class="news-item"><strong>[May 2023]</strong> One paper about large-scale cloth manipulation is accepted to CASE 2023.</li>
+    <li class="news-item"><strong>[Jan. 2023]</strong> Two papers are accepted to ICRA 2023.</li>
+    <li class="news-item"><strong>[Dec. 2022]</strong> One workshop proposal about agile movement is accepted to ICRA 2023.</li>
+    <li class="news-item"><strong>[Jun. 2022]</strong> One paper about nonholonomic vehicle navigation is accepted to T-MECH.</li>
+    <li class="news-item"><strong>[May 2022]</strong> One paper is accepted to T-MECH.</li>
+    <li class="news-item"><strong>[Apr. 2022]</strong> One paper about null space avoidance theory is accepted to T-CST.</li>
+    <li class="news-item"><strong>[Feb. 2022]</strong> One paper is accepted to ACC 2022.</li>
+    <li class="news-item"><strong>[Jul. 2021]</strong> I defended my Ph.D. dissertation with the committee members: Prof. Yunhui Liu, Prof. Kwok Wai Samuel Au, Prof. Tat Ming Lau, and Prof. Marco Hutter.</li>
 </ul>
 
 <div class="show-more-btn" onclick="toggleNews()">Show More ▼</div>
@@ -91,12 +91,13 @@ My research interests include 1) Developments of robotic surgical and medical sy
     .news-item.show { display: list-item; }
     .show-more-btn { 
         cursor: pointer; 
-        color: blue; 
+        color: deepskyblue; 
         text-decoration: underline; 
         display: block; 
         text-align: center; 
         margin: 20px 0; 
         font-weight: bold; 
+        font-size: 16px;
     }
 </style>
 
