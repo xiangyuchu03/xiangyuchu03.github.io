@@ -1,4 +1,14 @@
 main:
+
+  - title: From behavior to bio-inspiration: Aerial reorientation and multi-plane stability in kangaroo rats, computational models, and robots
+    authors: <strong>Xiangyu Chu<sup>#,*</sup></strong>, M Janneke Schwaner<sup>#,*</sup>, Jiajun An, Shengzhi Wang, Craig P McGowan, and Kwok Wai Samuel Au
+    conference_short: ICB
+    conference: Integrative and Comparative Biology, 2024.
+    pdf: https://doi.org/10.1093/icb/icae079
+    code: 
+    bibtex: 
+    image: ./assets/img/RAL_DOM_Tang.png
+    #notes: Accept
   
   - title: Learning-based MPC With Safety Filter for Constrained Deformable Linear Object Manipulation
     authors: Yunxi Tang, <strong>Xiangyu Chu<sup>*</sup></strong>, Jing Huang, and K. W. Samuel Au
