@@ -7,7 +7,7 @@ main:
     pdf: https://doi.org/10.1093/icb/icae079
     code: 
     bibtex: 
-    image: ./assets/img/RAL_DOM_Tang.png
+    image: ./assets/img/ICB_2Dtail_cover_photo.png
     #notes: Accept
   
   - title: Learning-based MPC With Safety Filter for Constrained Deformable Linear Object Manipulation
