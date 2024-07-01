@@ -13,6 +13,7 @@ My research interests include 1) Developments of robotic surgical and medical sy
     <li class="news-item"><strong>[Jun. 2024]</strong> One paper about restoring a needle's visibility is accepted to IEEE Transactions on Instrumentation & Measurement.</li>
     <li class="news-item"><strong>[Jun. 2024]</strong> One paper about explaining kangaroo rat's tail motion is accepted to Integrative and Comparative Biology. This is our first paper in <strong>Robotics for Biology</strong>!</li>
     <li class="news-item"><strong>[May 2024]</strong> One paper about autonomous robotic surgery is accepted to RSS 2024.</li>
+    <li class="news-item"><strong>[May 2024]</strong> I gave a talk "Enhancing Agility for Terrestrial Robots: From Inertial Appendage to Propeller Assistance" in the Agile Movement workshop at ICRA2024.</li>
     <li class="news-item"><strong>[May 2024]</strong> I was recognized for distinguished service as an Outstanding Reviewer for the IEEE Robotics and Automation Letters.</li>
     <li class="news-item"><strong>[Jan. 2024]</strong> One paper about interactive navigation using large models is accepted to ICRA 2024.</li>
     <li class="news-item"><strong>[Jan. 2024]</strong> One paper is accepted to ACC 2024.</li>
