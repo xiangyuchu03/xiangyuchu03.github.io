@@ -10,6 +10,7 @@ My research interests include 1) Developments of robotic surgical and medical sy
 
 ## News
 <ul id="news-list">
+    <li class="news-item"><strong>[Jul. 2024]</strong> One co-authored paper about using robotics knowledge to explain kangaroo rat's tail motion is accepted to RA-L. Congrats, Danny! </li>
     <li class="news-item"><strong>[Jun. 2024]</strong> One paper about restoring a needle's visibility is accepted to IEEE Transactions on Instrumentation & Measurement.</li>
     <li class="news-item"><strong>[Jun. 2024]</strong> One paper about explaining kangaroo rat's tail motion is accepted to Integrative and Comparative Biology. This is our first paper in <strong>Robotics for Biology</strong>!</li>
     <li class="news-item"><strong>[May 2024]</strong> One paper about autonomous robotic surgery is accepted to RSS 2024.</li>
