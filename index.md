@@ -9,6 +9,8 @@ I was a postdoctoral fellow in [Multi-scale Medical Robotics Center](https://www
 
 My research interests include 1) Developments of robotic surgical and medical systems and related algorithms; 2) Developments of nuanced manipulation skills on (deformable) objects and their applications in surgery and service; 3) Developments of agile locomotion systems and related algorithms / their applications on biomechanics.
 
+The BMT group is looking for an MPhil student working on legged robot control and sensing.
+
 ## News
 <ul id="news-list">
     <li class="news-item"><strong>[Sept. 2024]</strong> One paper about an innovative concept of humanitarian demining using a minimalistic 3D hopping robot is accepted to SSRR 2024. Congrats, Ivan! </li>
