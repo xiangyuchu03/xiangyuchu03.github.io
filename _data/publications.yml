@@ -1,5 +1,13 @@
 main:
-
+  - title: "Needle Segmentation Using GAN: Restoring Thin Instrument Visibility in Robotic Ultrasound"
+    authors: Zhongliang Jiang, Xuesong Li, <strong>Xiangyu Chu<sup>*</sup></strong>, Angelos Karlas, Yuan Bi, Yingsheng Cheng<sup>*</sup>, K. W. Samuel Au, and Nassir Navab
+    conference_short: TIM
+    conference: IEEE Transactions on Instrumentation and Measurement, 2024.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10740337
+    code: 
+    bibtex: 
+    image: ./assets/img/TIM_needle.png
+    
   - title: "From behavior to bio-inspiration: Aerial reorientation and multi-plane stability in kangaroo rats, computational models, and robots"
     authors: <strong>Xiangyu Chu<sup>#,*</sup></strong>, M Janneke Schwaner<sup>#,*</sup>, Jiajun An, Shengzhi Wang, Craig P McGowan, and Kwok Wai Samuel Au
     conference_short: ICB
