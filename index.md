@@ -13,7 +13,7 @@ My research interests include 1) Developments of robotic surgical and medical sy
 
 ## News
 <ul id="news-list">
-    <li class="news-item"><strong>[Mar. 2025]</strong> One paper about open-source and multi-mode hopping robot platform is accepted to RA-L.</li>
+    <li class="news-item"><strong>[Mar. 2025]</strong> One paper about open-source and multi-mode hopping robot platform is accepted to RA-L. Congrats, Fiat!</li>
     <li class="news-item"><strong>[Dec. 2024]</strong> One workshop proposal "Towards Agility and Robustness: Mechanical Intelligence in Robotics, Biology, and Smart Materials" is accepted to ICRA 2025.</li>
     <li class="news-item"><strong>[Dec. 2024]</strong> I gave a talk at the IEEE ROBIO 2024 workshop. </li>
     <li class="news-item"><strong>[Sept. 2024]</strong> One paper about an innovative concept of humanitarian demining using a minimalistic 3D hopping robot is accepted to SSRR 2024. Congrats, Ivan! </li>
