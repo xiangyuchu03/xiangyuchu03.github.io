@@ -6,7 +6,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10918748
     code: 
     bibtex: 
-    image: ./assets/img/TIM_needle.png
+    image: ./assets/img/OMEGA.jpg
   
   - title: "Needle Segmentation Using GAN: Restoring Thin Instrument Visibility in Robotic Ultrasound"
     authors: Zhongliang Jiang, Xuesong Li, <strong>Xiangyu Chu<sup>*</sup></strong>, Angelos Karlas, Yuan Bi, Yingsheng Cheng<sup>*</sup>, K. W. Samuel Au, and Nassir Navab
