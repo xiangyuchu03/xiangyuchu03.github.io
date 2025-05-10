@@ -1,5 +1,5 @@
 main:
-    - title: "OMEGA: Open-Source and Multi-Mode Hopping Platform for Educational and Groundwork Aims"
+  - title: "OMEGA: Open-Source and Multi-Mode Hopping Platform for Educational and Groundwork Aims"
     authors: <strong>Xiangyu Chu<sup>#,*</sup></strong>, Fei Yan Wong<sup>#</sup>, Chun Yin Fan, Hongbo Zhang, Yanlin Chen<sup>*</sup>, and K. W. Samuel Au
     conference_short: RA-L
     conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2025.
