@@ -1,4 +1,13 @@
 main:
+    - title: "OMEGA: Open-Source and Multi-Mode Hopping Platform for Educational and Groundwork Aims"
+    authors: <strong>Xiangyu Chu<sup>#,*</sup></strong>, Fei Yan Wong<sup>#</sup>, Chun Yin Fan, Hongbo Zhang, Yanlin Chen<sup>*</sup>, and K. W. Samuel Au
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/document/10918748
+    code: 
+    bibtex: 
+    image: ./assets/img/TIM_needle.png
+  
   - title: "Needle Segmentation Using GAN: Restoring Thin Instrument Visibility in Robotic Ultrasound"
     authors: Zhongliang Jiang, Xuesong Li, <strong>Xiangyu Chu<sup>*</sup></strong>, Angelos Karlas, Yuan Bi, Yingsheng Cheng<sup>*</sup>, K. W. Samuel Au, and Nassir Navab
     conference_short: TIM
