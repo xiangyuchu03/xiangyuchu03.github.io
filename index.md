@@ -9,11 +9,7 @@ I was a postdoctoral fellow in [Multi-scale Medical Robotics Center](https://www
 
 My research interests include 1) Developments of robotic surgical and medical systems and related algorithms; 2) Developments of nuanced manipulation skills on (deformable) objects and their applications in surgery and service; 3) Developments of agile locomotion systems and related algorithms / their applications on biomechanics.
 
-**1. Opportunities are available for postdoctoral fellows in medical robotics with a focus on image-guided surgical intervention systems.**
-
-**2. The summer research application is open now.**
-
-**3. CUHK students (undergraduate and MSc) interested in research are welcome to contact me via email to explore potential opportunities.**
+**1. CUHK students (undergraduate and MSc) interested in research are welcome to contact me via email to explore potential opportunities in medical robotics and mobile robotics.**
 
 ## News
 <ul id="news-list">
