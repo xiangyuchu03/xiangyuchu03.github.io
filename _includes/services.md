@@ -38,7 +38,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href=""><autocolor>IEEE Robotics and Automation Letters (RA-L) *28</autocolor></a></li>
+  <li><a href=""><autocolor>IEEE Robotics and Automation Letters (RA-L) *30</autocolor></a></li>
   <li><a href=""><autocolor>IEEE Transactions on Control Systems Technology（T-CST) </autocolor></a></li>
   <li><a href=""><autocolor>Journal of Mechanisms and Robotics (J-MR) </autocolor></a></li>
   <li><a href=""><autocolor>Frontiers in Robotics and AI </autocolor></a></li>
@@ -47,4 +47,6 @@
   <li><a href=""><autocolor>Nonlinear Dynamics </autocolor></a></li>
   <li><a href=""><autocolor>Bioinspiration and Biomimetics </autocolor></a></li>
   <li><a href=""><autocolor>Journal of Field Robotics </autocolor></a></li>
+  <li><a href=""><autocolor>The IEEE Robotics and Automation Magazine </autocolor></a></li>
+  <li><a href=""><autocolor>Nature Communications </autocolor></a></li>
 </ul>
