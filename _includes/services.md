@@ -47,6 +47,6 @@
   <li><a href=""><autocolor>Nonlinear Dynamics </autocolor></a></li>
   <li><a href=""><autocolor>Bioinspiration and Biomimetics </autocolor></a></li>
   <li><a href=""><autocolor>Journal of Field Robotics </autocolor></a></li>
-  <li><a href=""><autocolor>The IEEE Robotics and Automation Magazine </autocolor></a></li>
+  <li><a href=""><autocolor>IEEE Robotics and Automation Magazine </autocolor></a></li>
   <li><a href=""><autocolor>Nature Communications </autocolor></a></li>
 </ul>
