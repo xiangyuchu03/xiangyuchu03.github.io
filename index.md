@@ -16,7 +16,9 @@ My research interests include 1) Developments of robotic surgical and medical sy
 ## News
 <ul id="news-list">
     <li class="news-item"><strong>[Jul. 2025]</strong> One co-authored paper about <strong> Surgical Embodied Intelligence </strong> is accepted to Science Robotics. </li>
+    <li class="news-item"><strong>[Jun. 2025]</strong> I gave a talk at the 1st research workshop of RCUAS organized by The Hong Kong Polytechnic University (PolyU) </li>
     <li class="news-item"><strong>[Jun. 2025]</strong> One paper about <strong> Restoring Needle Alignment in Autonomous Robotic Ultrasound </strong> is accepted to IROS 2025. Congrats, Zhongyu!</li>
+    <li class="news-item"><strong>[Jun. 2025]</strong> I gave a talk at the National Center for Tumor Diseases (NCT), Dresden, Germany. </li>
     <li class="news-item"><strong>[May 2025]</strong> One paper about <strong> Manipulating Elasto-Plastic Objects With 3D Occupancy </strong> is accepted to RA-L. Congrats, Zhen!</li>
     <li class="news-item"><strong>[May 2025]</strong> One paper about <strong> Appending Propellers to Legs </strong> is accepted to CLAWAR 2025. Congrats, Yanlin and Ziyu!</li>
     <li class="news-item"><strong>[May 2025]</strong> One workshop proposal about <strong> Soft Tissue Manipulation in Robotic Surgery </strong> is accepted to IROS 2025.</li>
