@@ -1,4 +1,13 @@
 main:
+  - title: "Manipulating Elasto-Plastic Objects With 3D Occupancy and Learning-Based Predictive Control"
+    authors: Zhen Zhang, <strong>Xiangyu Chu<sup>*</sup></strong>, Yunxi Tang, Lulu Zhao, Jing Huang, Zhongliang Jiang, and K. W. Samuel Au
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11018411
+    code: 
+    bibtex: 
+    image: ./assets/img/OMEGA_V2.jpg
+  
   - title: "OMEGA: Open-Source and Multi-Mode Hopping Platform for Educational and Groundwork Aims"
     authors: <strong>Xiangyu Chu<sup>#,*</sup></strong>, Fei Yan Wong<sup>#</sup>, Chun Yin Fan, Hongbo Zhang, Yanlin Chen<sup>*</sup>, and K. W. Samuel Au
     conference_short: RA-L
