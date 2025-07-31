@@ -9,7 +9,7 @@ I was a postdoctoral fellow in [Multi-scale Medical Robotics Center](https://www
 
 My research interests include 1) Developments of robotic surgical and medical systems and related algorithms; 2) Developments of nuanced manipulation skills on (deformable) objects and their applications in surgery and service; 3) Developments of agile locomotion systems and related algorithms / their applications on biomechanics.
 
-**1. I am looking for a full-time RA (starting date: 2026-01-01) to develop embedded systems for a new robotic mobile manipulation platform — experience with C++, ROS2, real-time systems, and hardware-software integration is preferred.**
+**1. I am looking for a full-time RA (starting date: 2026-01-01) to develop embedded systems for a new robotic mobile manipulation platform — experience with C++, ROS2, and hardware-software integration is preferred.**
 
 **2. The BMT group is looking for a PhD candidate (Fall 2026) for autonomy and AI in robotic surgery.**
 
