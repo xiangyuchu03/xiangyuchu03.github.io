@@ -11,7 +11,9 @@ My research interests include 1) Developments of robotic surgical and medical sy
 
 **1. I am looking for a full-time RA (starting date: 2026-01-01) to develop embedded systems for a new robotic mobile manipulation platform — experience with C++, ROS2, real-time systems, and hardware-software integration is preferred.**
 
-**2. CUHK students (undergraduate and MSc) interested in research are welcome to contact me via email to explore potential opportunities in medical robotics and mobile robotics.**
+**2. The BMT group is looking for a PhD candidate (Fall 2026) for autonomy and AI in robotic surgery.**
+
+**3. CUHK students (undergraduate and MSc) interested in research are welcome to contact me via email to explore potential opportunities in medical robotics and mobile robotics.**
 
 ## News
 <ul id="news-list">
