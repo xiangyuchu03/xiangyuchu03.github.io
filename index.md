@@ -9,14 +9,17 @@ I was a postdoctoral fellow in [Multi-scale Medical Robotics Center](https://www
 
 My research interests include 1) Developments of robotic surgical and medical systems and related algorithms; 2) Developments of nuanced manipulation skills on (deformable) objects and their applications in surgery and service; 3) Developments of agile locomotion systems and related algorithms / their applications on biomechanics.
 
-**1. I am looking for a full-time RA (starting date: 2026-01-01) to develop embedded systems for a new robotic mobile manipulation platform — experience with C++, ROS2, and hardware-software integration is preferred.**
+**1. I am looking for full-time RAs with experience in robotic system integration (e.g., legged robots, aerial/legged/wheeled manipulation robots).**
 
 **2. The BMT group is looking for a PhD candidate (Fall 2026) for autonomy and AI in robotic surgery.**
 
-**3. CUHK students (undergraduate and MSc) interested in Robotics & AI research are welcome to contact me via email to explore potential opportunities in medical robotics and mobile robotics.**
+**3. The BMT group is looking for full-time RAs to work on autonomy and AI in robotic surgery.**
+
+**4. CUHK students (undergraduate and MSc) interested in Robotics & AI research are welcome to contact me via email to explore potential opportunities in medical robotics and mobile robotics.**
 
 ## News
 <ul id="news-list">
+    <li class="news-item"><strong>[Oct. 2025]</strong> One paper about <strong> 3D State Estimation </strong> is accepted to RA-L. Congrats, Yunxi! </li>
     <li class="news-item"><strong>[Jul. 2025]</strong> One co-authored paper about <strong> Surgical Embodied Intelligence </strong> is accepted to Science Robotics. </li>
     <li class="news-item"><strong>[Jun. 2025]</strong> I gave a talk at the 1st research workshop of RCUAS organized by The Hong Kong Polytechnic University (PolyU) </li>
     <li class="news-item"><strong>[Jun. 2025]</strong> One paper about <strong> Restoring Needle Alignment in Autonomous Robotic Ultrasound </strong> is accepted to IROS 2025. Congrats, Zhongyu and Chenyang!</li>
