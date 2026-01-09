@@ -1,6 +1,7 @@
 main:
   - title: "Generative 3D State Estimation for DLOs From Partial Observations"
     authors: Yunxi Tang, Tianqi Yang, Jing Huang, <strong>Xiangyu Chu<sup>*</sup></strong>, and K. W. Samuel Au
+    conference_short: RA-L
     conference: IEEE Robotics and Automation Letters  <strong>(RA-L)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/abstract/document/11248900
     code: 
