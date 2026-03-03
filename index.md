@@ -21,6 +21,7 @@ Latest update: Jan 9, 2026
 
 ## News
 <ul id="news-list">
+    <li class="news-item"><strong>[Mar. 2026]</strong> One paper is accepted to T-MECH. Congrats, Yanlin! </li>
     <li class="news-item"><strong>[Oct. 2025]</strong> One paper about <strong> 3D State Estimation </strong> is accepted to RA-L. Congrats, Yunxi! </li>
     <li class="news-item"><strong>[Jul. 2025]</strong> One co-authored paper about <strong> Surgical Embodied Intelligence </strong> is accepted to Science Robotics. </li>
     <li class="news-item"><strong>[Jun. 2025]</strong> I gave a talk at the 1st research workshop of RCUAS organized by The Hong Kong Polytechnic University (PolyU) </li>
