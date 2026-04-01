@@ -7,9 +7,9 @@ layout: homepage
 I am currently a research assistant professor in the [BTM](https://biomedirobotics.com/) group, Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, directed by [Prof. Kwok Wai Samuel Au](https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/). 
 I was a postdoctoral fellow in [Multi-scale Medical Robotics Center](https://www.mrc-cuhk.com/). Prior to my PhD study, I received B.E. and M.E. degrees at Harbin Institute of Technology, China. In the third year, I was visiting the group of [Prof. Hartmut Geyer](https://www.cs.cmu.edu/~hgeyer/) at Carnegie Mellon University, USA. Besides, I was visiting the Chair for Computer Aided Medical Procedures & Augmented Reality [(CAMP)](https://www.cs.cit.tum.de/camp/start/), supervised by [Prof. Nassir Navab](https://www.professoren.tum.de/en/navab-nassir), at Technical University of Munich, Germany.
 
-My research interests include 1) Developments of robotic surgical and medical systems and related algorithms; 2) Developments of nuanced manipulation skills on (deformable) objects and their applications in surgery and service; 3) Developments of agile locomotion systems and related algorithms / their applications on biomechanics.
+My research interests include 1) Developments of robotic surgical and medical systems and related algorithms; 2) Developments of nuanced manipulation skills on (deformable) objects and their applications in surgery and service; 3) Developments of mobile systems and related algorithms / their applications on healthcare.
 
-**1. I am looking for full-time RAs with experience in robotic system integration (e.g., legged robots, aerial/legged/wheeled manipulation robots).**
+**1. I am looking for full-time RAs with experience in robotic system integration (e.g., legged/wheeled manipulation robots).**
 
 **2. The BMT group is looking for full-time RAs to work on medical imaging.**
 
@@ -17,13 +17,15 @@ My research interests include 1) Developments of robotic surgical and medical sy
 
 **4. CUHK students (undergraduate and MSc) interested in Robotics & AI research are welcome to contact me via email to explore potential opportunities in medical robotics and mobile robotics.**
 
-Latest update: Jan 9, 2026
+Latest update: Mar 31, 2026
 
 ## News
 <ul id="news-list">
     <li class="news-item"><strong>[Mar. 2026]</strong> One co-authored paper is accepted to T-MECH. Congrats, Yanlin! </li>
+    <li class="news-item"><strong>[Dec. 2025]</strong> A proposal for the Germany/Hong Kong Joint Research Scheme is approved. </li>
     <li class="news-item"><strong>[Oct. 2025]</strong> One paper about <strong> 3D State Estimation </strong> is accepted to RA-L. Congrats, Yunxi! </li>
     <li class="news-item"><strong>[Jul. 2025]</strong> One co-authored paper about <strong> Surgical Embodied Intelligence </strong> is accepted to Science Robotics. </li>
+    <li class="news-item"><strong>[Jun. 2025]</strong> A GRF proposal is approved. </li>
     <li class="news-item"><strong>[Jun. 2025]</strong> I gave a talk at the 1st research workshop of RCUAS organized by The Hong Kong Polytechnic University (PolyU) </li>
     <li class="news-item"><strong>[Jun. 2025]</strong> One paper about <strong> Restoring Needle Alignment in Autonomous Robotic Ultrasound </strong> is accepted to IROS 2025. Congrats, Zhongyu and Chenyang!</li>
     <li class="news-item"><strong>[Jun. 2025]</strong> I gave a talk at the National Center for Tumor Diseases (NCT), Dresden, Germany. </li>
