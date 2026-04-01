@@ -21,6 +21,14 @@
   <li><a href="https://sites.google.com/view/agilemovement-2023icra"><autocolor></autocolor>Agile Movements: Animal Behavior, Biomechanics, and Robot Devices at ICRA 2023</a></li>
 </ul> 
 
+<h4 style="margin:0 10px 0;">Associate Editors</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href=""><autocolor> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025, 2026</autocolor></a></li>
+  <li><a href=""><autocolor> IEEE International Conference on Robotics and Automation (ICRA) 2026 </autocolor></a></li>
+  <li><a href=""><autocolor> IEEE RO-MAN 2025, 2026 </autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
