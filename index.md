@@ -9,15 +9,13 @@ I was a postdoctoral fellow in [Multi-scale Medical Robotics Center](https://www
 
 My research interests include 1) Developments of robotic surgical and medical systems and related algorithms; 2) Developments of nuanced manipulation skills on (deformable) objects and their applications in surgery and service; 3) Developments of mobile systems and related algorithms / their applications on healthcare.
 
-**1. I am looking for full-time RAs with experience in robotic system integration (e.g., legged/wheeled manipulation robots).**
+**1. The BMT group is looking for full-time RAs to work on medical imaging.**
 
-**2. The BMT group is looking for full-time RAs to work on medical imaging.**
+**2. The summer internship application is open. Surgical data science is preferred.**
 
-**3. The summer internship application is open.**
+**3. CUHK students (undergraduate and MSc) interested in Robotics & AI research are welcome to contact me via email to explore potential opportunities in medical robotics and mobile robotics.**
 
-**4. CUHK students (undergraduate and MSc) interested in Robotics & AI research are welcome to contact me via email to explore potential opportunities in medical robotics and mobile robotics.**
-
-Latest update: Mar 31, 2026
+Latest update: April 20, 2026
 
 ## News
 <ul id="news-list">
