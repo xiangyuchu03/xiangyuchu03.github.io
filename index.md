@@ -19,6 +19,7 @@ Latest update: April 20, 2026
 
 ## News
 <ul id="news-list">
+    <li class="news-item"><strong>[Apr. 2026]</strong> One paper is accepted to T-MECH. Congrats, Yunxi! </li>
     <li class="news-item"><strong>[Mar. 2026]</strong> One co-authored paper is accepted to T-MECH. Congrats, Yanlin! </li>
     <li class="news-item"><strong>[Dec. 2025]</strong> A proposal for the <strong> Germany/Hong Kong Joint Research Scheme </strong> is approved. </li>
     <li class="news-item"><strong>[Oct. 2025]</strong> One paper about <strong> 3D State Estimation </strong> is accepted to RA-L. Congrats, Yunxi! </li>
