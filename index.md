@@ -19,6 +19,7 @@ Latest update: April 20, 2026
 
 ## News
 <ul id="news-list">
+    <li class="news-item"><strong>[May 2026]</strong> One workshop proposal about <strong> 2nd International Workshop on Intelligent Robotics for Soft Tissue Surgery </strong> is accepted to IROS 2026.</li>
     <li class="news-item"><strong>[May 2026]</strong> One paper about <strong> Actuation-Constrained Control Framework for Microswarm Navigation </strong> is accepted to IJRR. </li>
     <li class="news-item"><strong>[May 2026]</strong> One paper about <strong> Surgical Understanding </strong> is accepted to IJCARS by Kun Yuan and Yutong Cao (Summer intern). Congrats! </li>
     <li class="news-item"><strong>[Apr. 2026]</strong> One paper is accepted to T-MECH. Congrats, Yunxi! </li>
