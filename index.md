@@ -19,9 +19,10 @@ Latest update: April 20, 2026
 
 ## News
 <ul id="news-list">
+    <li class="news-item"><strong>[May 2026]</strong> One paper about <strong> Propeller-Assisted Robust 3D Hopping </strong> is accepted to CASE 2026 by Chuhan Zhang (Summer intern in 2025). Congrats! </li>
     <li class="news-item"><strong>[May 2026]</strong> One workshop proposal about <strong> 2nd International Workshop on Intelligent Robotics for Soft Tissue Surgery </strong> is accepted to IROS 2026.</li>
     <li class="news-item"><strong>[May 2026]</strong> One paper about <strong> Actuation-Constrained Control Framework for Microswarm Navigation </strong> is accepted to IJRR. </li>
-    <li class="news-item"><strong>[May 2026]</strong> One paper about <strong> Surgical Understanding </strong> is accepted to IJCARS by Kun Yuan and Yutong Cao (Summer intern). Congrats! </li>
+    <li class="news-item"><strong>[May 2026]</strong> One paper about <strong> Surgical Understanding </strong> is accepted to IJCARS by Kun Yuan and Yutong Cao (Summer intern in 2025).  </li>
     <li class="news-item"><strong>[Apr. 2026]</strong> One paper is accepted to T-MECH. Congrats, Yunxi! </li>
     <li class="news-item"><strong>[Mar. 2026]</strong> One co-authored paper is accepted to T-MECH. Congrats, Yanlin! </li>
     <li class="news-item"><strong>[Dec. 2025]</strong> A proposal for the <strong> Germany/Hong Kong Joint Research Scheme </strong> is approved. </li>
