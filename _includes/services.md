@@ -9,6 +9,9 @@
 <h4 style="margin:0 10px 0;">Workshop Organization</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://sites.google.com/view/autosurg"><autocolor></autocolor>International Challenge on Surgical Autonomy in Real-world Settings at Hamlyn Symposium 2026</a></li>
+</ul>
+<ul style="margin:0 0 5px;">
   <li><a href="https://sites.google.com/view/iros25-softtissuemanipulation/"><autocolor></autocolor>Soft Tissue Manipulation in Robotic Surgery at IROS 2025</a></li>
 </ul>
 <ul style="margin:0 0 5px;">
