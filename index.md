@@ -9,9 +9,9 @@ I was a postdoctoral fellow in [Multi-scale Medical Robotics Center](https://www
 
 My research interests include 1) Developments of robotic surgical and medical systems and related algorithms; 2) Developments of nuanced manipulation skills on (deformable) objects and their applications in surgery and service; 3) Developments of mobile systems and related algorithms / their applications on healthcare.
 
-**1. I am looking for research interns to work on medical AI safety and surgical data science for high-risk healthcare and medical robotics applications. The position is based in Hong Kong with sufficient computing resources.**
+**1. I am looking for research interns or full-time research assistants to work on medical AI safety and surgical data science for healthcare and medical robotics applications. The position is based in Hong Kong with sufficient computing resources.**
 
-**2. CUHK / CUHK SZ students (undergraduate and MSc) interested in Robotics & AI research are welcome to contact me via email to explore potential opportunities in medical robotics and mobile robotics.**
+**2. CUHK / CUHK SZ students (undergraduate and MSc) interested in Robotics & AI research are welcome to contact me via email to explore potential opportunities in medical robotics and healthcare robotics.**
 
 Latest update: June 13, 2026
 
