@@ -30,6 +30,7 @@
 <h4 style="margin:0 10px 0;">Associate Editors</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href=""><autocolor> IEEE Robotics and Automation Letters </autocolor></a></li>
   <li><a href=""><autocolor> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025, 2026</autocolor></a></li>
   <li><a href=""><autocolor> IEEE International Conference on Robotics and Automation (ICRA) 2026, 2027 </autocolor></a></li>
   <li><a href=""><autocolor> IEEE RO-MAN 2025, 2026 </autocolor></a></li>
