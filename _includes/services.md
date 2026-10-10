@@ -57,8 +57,8 @@
   <li><a href=""><autocolor>IEEE Transactions on Control Systems Technology（T-CST) </autocolor></a></li>
   <li><a href=""><autocolor>Journal of Mechanisms and Robotics (J-MR) </autocolor></a></li>
   <li><a href=""><autocolor>Frontiers in Robotics and AI </autocolor></a></li>
-  <li><a href=""><autocolor>IEEE Transactions on Robotics（T-RO) </autocolor></a></li>
-  <li><a href=""><autocolor>IEEE Transactions on Mechatronics（T-Mech) </autocolor></a></li>
+  <li><a href=""><autocolor>IEEE Transactions on Robotics (T-RO) </autocolor></a></li>
+  <li><a href=""><autocolor>IEEE Transactions on Mechatronics (T-Mech) </autocolor></a></li>
   <li><a href=""><autocolor>Nonlinear Dynamics </autocolor></a></li>
   <li><a href=""><autocolor>Bioinspiration and Biomimetics </autocolor></a></li>
   <li><a href=""><autocolor>Journal of Field Robotics </autocolor></a></li>
