@@ -18,6 +18,7 @@ Latest update: Aug 4, 2026
 
 ## News
 <ul id="news-list">
+    <li class="news-item"><strong>[Oct 2026]</strong> One paper about <strong> Hospital Service Robot Navigation </strong> is accepted to Robot Learning by Weifan Zhang. Congrats! </li>
     <li class="news-item"><strong>[May 2026]</strong> One paper about <strong> Propeller-Assisted Robust 3D Hopping </strong> is accepted to CASE 2026 by Chuhan Zhang (Summer intern in 2025). Congrats! (Finalist for Best Student Paper Award) </li>
     <li class="news-item"><strong>[May 2026]</strong> One workshop proposal about <strong> 2nd International Workshop on Intelligent Robotics for Soft Tissue Surgery </strong> is accepted to IROS 2026.</li>
     <li class="news-item"><strong>[May 2026]</strong> One paper about <strong> Actuation-Constrained Control Framework for Microswarm Navigation </strong> is accepted to IJRR. </li>
